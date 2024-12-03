@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img  src = "https://www.google.com/search?sca_esv=cf4b4f72d6e342aa&q=business+manager+animated&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JyJJclJuzBPl12qJyPx7ESJehObpS5jg6J88CCM-RK72qUv4GOvBp3LxAsC-35pUAVd1mVJIz_kJEl7OpW0Y42rOM96fEVibRmxJCzmEqh53sBnJMLdHFyYMnh1J8SLKdTBIS0c&sa=X&ved=2ahUKEwj3-uS50YuKAxXj3DgGHeKTCnAQtKgLegQIExAB&biw=1920&bih=945&dpr=1#vhid=F3YztMkmtypbzM&vssid=mosaic" width = 100px></p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sayef+Ahmed!;" />
 </h1>
@@ -14,15 +14,15 @@ I'm focused on planning and creating business analytics. Experienced in Python p
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **REST API**
+- 🌱 I’m currently learning *Project Management**
 
-- 🧑‍🎓 I’m an Undergraduate at **B.Sc. (Hon's) in CSE**
+- 🧑‍🎓 I’m an Undergraduate at **BBA (Hon's) in Finance and Banking**
 
-- 💬 Ask me about **Python & Django**
+- 💬 Ask me about *Business Plan**
 
-- 📫 How to reach me **sayefahmed251@gmail.com / hikmotit@gmail.com**
+- 📫 How to reach me *mhosen2012@gmail.com**
   
-- ⚡ Fun fact **Call me as Snake**
+- ⚡ Fun fact **Any Business Related quarey you can ask me**
 
 </td>
 <td width="50%" align="center">
