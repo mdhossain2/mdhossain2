@@ -8,7 +8,7 @@
 
 I'm focused on planning and creating business analytics. Experienced in Python programming and Django backend systems, with a track record of delivering scalable solutions to complex technical challenges. Experienced in both independent development and team collaboration.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sayef-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Sayef-Ahmed" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdhossain2&label=Profile%20views&color=0e75b6&style=flat" alt="Hossain-Khan" /> </p>
 
 <table align="center">
 <tr border="none">
